@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FireWind24
 - 👀 I’m interested in Programming and Ethical Hacking
-- 🌱 I’m currently learning Python & C
+- 🌱 I’m currently learning Python, C, Web Development & German
 - 💞️ I’m looking to collaborate on python projects (maybe?)
 - 📫 How to reach me? Don't!
 
